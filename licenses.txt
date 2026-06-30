@@ -1,2 +1,1 @@
 82.165.45.12 | Client: Ahmed | Sub: 3 Months (Expires: 01-10-2026)
-127.0.0.1 | Local Test | Free
